@@ -6,11 +6,33 @@ Custom Taygedo pet assets for Codex. This repository contains the installable pe
 
 ![Taygedo preview](docs/processed-preview-normalized-contact-sheet.png)
 
-## Install / 安装
+## Install With Codex / 使用 Codex 代理安装
+
+Open this repository in Codex and ask:
+
+在 Codex 中打开本仓库后，可以直接说：
+
+```text
+请按照 AGENTS.md 帮我安装这个 Taygedo Codex pet。
+```
+
+Codex should follow [AGENTS.md](AGENTS.md). The preferred install command is:
+
+Codex 应按照 [AGENTS.md](AGENTS.md) 执行。推荐安装命令是：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
+```
+
+The script backs up any existing `taygedo` pet folder before installing the current one.
+
+脚本会在安装前备份已有的 `taygedo` 宠物目录。
+
+## Manual Install / 手动安装
 
 Copy or clone this repository to:
 
-将本仓库复制或克隆到：
+也可以手动复制或克隆到：
 
 ```text
 %USERPROFILE%\.codex\pets\taygedo
@@ -54,8 +76,12 @@ After installation, refresh the Codex pet list or restart Codex. The pet display
 
 ```text
 .
+├── AGENTS.md
+├── README.md
 ├── pet.json
 ├── spritesheet.png
+├── scripts/
+│   └── install.ps1
 ├── docs/
 │   ├── generated-images-contact-sheet.png
 │   ├── processed-preview-contact-sheet.png
