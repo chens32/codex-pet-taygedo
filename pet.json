@@ -1,0 +1,6 @@
+{
+  "id": "taygedo",
+  "displayName": "Taygedo",
+  "description": "A custom Taygedo Codex pet built from a 72-frame animated spritesheet.",
+  "spritesheetPath": "spritesheet.png"
+}

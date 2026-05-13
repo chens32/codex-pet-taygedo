@@ -1,0 +1,535 @@
+{
+  "sourceDirectory": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)",
+  "inputCount": 72,
+  "frameSize": [
+    192,
+    208
+  ],
+  "spritesheetSize": [
+    1536,
+    1872
+  ],
+  "cropRectInSourcePixels": [
+    -32,
+    -31,
+    1179,
+    1281
+  ],
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "frames": [
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_40 (1).png",
+      "frame": "row0_idle_01.png",
+      "row": 0,
+      "state": "idle",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_40 (2).png",
+      "frame": "row0_idle_02.png",
+      "row": 0,
+      "state": "idle",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_41 (3).png",
+      "frame": "row0_idle_03.png",
+      "row": 0,
+      "state": "idle",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_41 (4).png",
+      "frame": "row0_idle_04.png",
+      "row": 0,
+      "state": "idle",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_42 (5).png",
+      "frame": "row0_idle_05.png",
+      "row": 0,
+      "state": "idle",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_42 (6).png",
+      "frame": "row0_idle_06.png",
+      "row": 0,
+      "state": "idle",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_42 (7).png",
+      "frame": "row0_idle_07.png",
+      "row": 0,
+      "state": "idle",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_49_43 (8).png",
+      "frame": "row0_idle_08.png",
+      "row": 0,
+      "state": "idle",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_02 (1).png",
+      "frame": "row1_running-right_01.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_03 (2).png",
+      "frame": "row1_running-right_02.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_03 (3).png",
+      "frame": "row1_running-right_03.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_04 (4).png",
+      "frame": "row1_running-right_04.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_04 (5).png",
+      "frame": "row1_running-right_05.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_05 (6).png",
+      "frame": "row1_running-right_06.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_05 (7).png",
+      "frame": "row1_running-right_07.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 08_56_06 (8).png",
+      "frame": "row1_running-right_08.png",
+      "row": 1,
+      "state": "running-right",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_51 (1).png",
+      "frame": "row2_running-left_01.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_52 (2).png",
+      "frame": "row2_running-left_02.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_52 (3).png",
+      "frame": "row2_running-left_03.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_53 (4).png",
+      "frame": "row2_running-left_04.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_53 (5).png",
+      "frame": "row2_running-left_05.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_54 (6).png",
+      "frame": "row2_running-left_06.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_54 (7).png",
+      "frame": "row2_running-left_07.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_00_55 (8).png",
+      "frame": "row2_running-left_08.png",
+      "row": 2,
+      "state": "running-left",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_55 (1).png",
+      "frame": "row3_waving_01.png",
+      "row": 3,
+      "state": "waving",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_55 (2).png",
+      "frame": "row3_waving_02.png",
+      "row": 3,
+      "state": "waving",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_56 (3).png",
+      "frame": "row3_waving_03.png",
+      "row": 3,
+      "state": "waving",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_56 (4).png",
+      "frame": "row3_waving_04.png",
+      "row": 3,
+      "state": "waving",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_57 (5).png",
+      "frame": "row3_waving_05.png",
+      "row": 3,
+      "state": "waving",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_57 (6).png",
+      "frame": "row3_waving_06.png",
+      "row": 3,
+      "state": "waving",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_58 (7).png",
+      "frame": "row3_waving_07.png",
+      "row": 3,
+      "state": "waving",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_04_58 (8).png",
+      "frame": "row3_waving_08.png",
+      "row": 3,
+      "state": "waving",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_19 (1).png",
+      "frame": "row4_jumping_01.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_20 (2).png",
+      "frame": "row4_jumping_02.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_21 (3).png",
+      "frame": "row4_jumping_03.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_22 (4).png",
+      "frame": "row4_jumping_04.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_23 (5).png",
+      "frame": "row4_jumping_05.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_23 (6).png",
+      "frame": "row4_jumping_06.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_24 (7).png",
+      "frame": "row4_jumping_07.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_08_24 (8).png",
+      "frame": "row4_jumping_08.png",
+      "row": 4,
+      "state": "jumping",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_30 (1).png",
+      "frame": "row5_failed_01.png",
+      "row": 5,
+      "state": "failed",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_31 (2).png",
+      "frame": "row5_failed_02.png",
+      "row": 5,
+      "state": "failed",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_31 (3).png",
+      "frame": "row5_failed_03.png",
+      "row": 5,
+      "state": "failed",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_31 (4).png",
+      "frame": "row5_failed_04.png",
+      "row": 5,
+      "state": "failed",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_32 (5).png",
+      "frame": "row5_failed_05.png",
+      "row": 5,
+      "state": "failed",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_32 (6).png",
+      "frame": "row5_failed_06.png",
+      "row": 5,
+      "state": "failed",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_32 (7).png",
+      "frame": "row5_failed_07.png",
+      "row": 5,
+      "state": "failed",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_13_33 (8).png",
+      "frame": "row5_failed_08.png",
+      "row": 5,
+      "state": "failed",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_52 (1).png",
+      "frame": "row6_waiting_01.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_53 (2).png",
+      "frame": "row6_waiting_02.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_54 (3).png",
+      "frame": "row6_waiting_03.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_54 (4).png",
+      "frame": "row6_waiting_04.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_55 (5).png",
+      "frame": "row6_waiting_05.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_56 (6).png",
+      "frame": "row6_waiting_06.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_57 (7).png",
+      "frame": "row6_waiting_07.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_15_58 (8).png",
+      "frame": "row6_waiting_08.png",
+      "row": 6,
+      "state": "waiting",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_53 (1).png",
+      "frame": "row7_running_01.png",
+      "row": 7,
+      "state": "running",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_53 (2).png",
+      "frame": "row7_running_02.png",
+      "row": 7,
+      "state": "running",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_54 (3).png",
+      "frame": "row7_running_03.png",
+      "row": 7,
+      "state": "running",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_54 (4).png",
+      "frame": "row7_running_04.png",
+      "row": 7,
+      "state": "running",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_55 (5).png",
+      "frame": "row7_running_05.png",
+      "row": 7,
+      "state": "running",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_56 (6).png",
+      "frame": "row7_running_06.png",
+      "row": 7,
+      "state": "running",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_56 (7).png",
+      "frame": "row7_running_07.png",
+      "row": 7,
+      "state": "running",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_23_57 (8).png",
+      "frame": "row7_running_08.png",
+      "row": 7,
+      "state": "running",
+      "column": 7
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_38 (1).png",
+      "frame": "row8_review_01.png",
+      "row": 8,
+      "state": "review",
+      "column": 0
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_39 (2).png",
+      "frame": "row8_review_02.png",
+      "row": 8,
+      "state": "review",
+      "column": 1
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_39 (3).png",
+      "frame": "row8_review_03.png",
+      "row": 8,
+      "state": "review",
+      "column": 2
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_39 (4).png",
+      "frame": "row8_review_04.png",
+      "row": 8,
+      "state": "review",
+      "column": 3
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_40 (5).png",
+      "frame": "row8_review_05.png",
+      "row": 8,
+      "state": "review",
+      "column": 4
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_40 (6).png",
+      "frame": "row8_review_06.png",
+      "row": 8,
+      "state": "review",
+      "column": 5
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_41 (7).png",
+      "frame": "row8_review_07.png",
+      "row": 8,
+      "state": "review",
+      "column": 6
+    },
+    {
+      "source": "C:\\Users\\cnche\\Downloads\\新建文件夹 (5)\\ChatGPT Image 2026年5月13日 09_30_41 (8).png",
+      "frame": "row8_review_08.png",
+      "row": 8,
+      "state": "review",
+      "column": 7
+    }
+  ]
+}
